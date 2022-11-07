@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppNauAnAPI", "AppNauAnAPI\AppNauAnAPI.csproj", "{1C648A8E-821A-4280-87A8-01F28714FD4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C648A8E-821A-4280-87A8-01F28714FD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C648A8E-821A-4280-87A8-01F28714FD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C648A8E-821A-4280-87A8-01F28714FD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C648A8E-821A-4280-87A8-01F28714FD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {753D84E1-3E60-4B55-BC51-075CB0672FAC}
+	EndGlobalSection
+EndGlobal
